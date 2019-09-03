@@ -1,4 +1,4 @@
-/* Author:      Benjamin A Garza III
+/* Modified By: Benjamin A Garza III
  * Date:        September 2, 2019
  * Source:      dgemm.c
  * Course:      CMPS 3240 Architecture
@@ -18,11 +18,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//  The benchmark function. IAXPY takes two integer arrays and a scalar as
-//  input. It adds the two arrays, element by element, storing the results in
-//  Result. The first term is multiplied by the scalar, called A. Hence, why
-//  it is called AXPY: scalar A times X plus Y. The I in the name indicates it
-//  is an integer.
 void fdot( int length, double *X, double *Y, double *Result ) {
     for( int i = 0; i < length; i++ )
 	for ( int j = 0; j < length; ++j ) {

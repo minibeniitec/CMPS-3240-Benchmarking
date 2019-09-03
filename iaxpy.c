@@ -1,4 +1,4 @@
-/* Author:	Benjamin A Garza III
+/* Modified By:	Benjamin A Garza III
  * Date:	September 2, 2019
  * Source: 	iaxpy.c
  * Course:	CMPS 3240 Architecture
