@@ -235,9 +235,8 @@ For check off, do the following:
 | :--- | :--- | :--- | :--- |
 | Albert's Dell Latitude E5470 w/ Intel Core i5-6440HQ | 0.771 | 0.790 | 4.110 |
 | Albert's 2014 Macbook Pro w/ Intel Core i7-5557U | 0.925 | 0.836 | 12.776 |
-| `odin.cs.csubak.edu` w/ Intel Xeon E5-2630 v4 |  |  |  |
-| Local machine |  |  |  |
-| My linux laptop |  |  |  |
+| `odin.cs.csubak.edu` w/ Intel Xeon E5-2630 v4 | 0.83 | 1.00 | 4.39 |
+| Local machine Intel(R) Xeon(R) W-2123 CPU @ 3.60GHz | 0.60 | 0.67 | 2.72 |
 
 Etc. etc.
 
